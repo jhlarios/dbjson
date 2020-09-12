@@ -1,5 +1,6 @@
-{"Users": [
-  {
+ 
+   [
+    "Users": {
     "id": 1,
     "name": "Leanne Graham",
     "username": "Bret",
@@ -12,8 +13,9 @@
       "geo": {
         "lat": "-37.3159",
         "lng": "81.1496"
-      }]
-      
       }
+      ]
+      
+      
       
       
